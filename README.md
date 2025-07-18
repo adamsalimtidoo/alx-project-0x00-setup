@@ -3,7 +3,7 @@ Scaffolding of AirBnB Clone
 ###Project Description
 This is a Next.js-based project designed to teach the fundamentals of building modern web applications using React, TypeScript, and Next.js. The application mimics core features of Airbnb’s UI, including property listings with images, ratings, and interactive components, while emphasizing best practices in front-end development.
 
-###Learning Objectives
+### Learning Objectives
 By completing this project, you will:
 
 1. Understand how to scaffold a Next.js project with TypeScript
@@ -16,7 +16,7 @@ By completing this project, you will:
 8. Implement responsive design with Tailwind CSS
 9. Set up and configure ESLint for code quality
 
-###Requirements
+### Requirements
 Node.js (v16 or later)
 npm or yarn
 Visual Studio Code (or any preferred IDE)
@@ -25,8 +25,8 @@ TypeScript
 Tailwind CSS
 ESLint
 
-###Best Practices
-###Project Structure:
+### Best Practices
+### Project Structure:
 
 1. Components are organized in a dedicated components directory
 TypeScript interfaces are centralized in an interfaces directory
