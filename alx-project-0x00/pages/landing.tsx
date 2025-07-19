@@ -18,17 +18,17 @@ const LandingButtons: React.FC = () => {
       {/* Small buttons */}
       <Button title="Small Rounded-sm" style="text-sm rounded-sm" />
       <Button title="Small Rounded-md" style="text-sm rounded-md" />
-      <Button title="Small Rounded-full" style="text-sm rounded-full" />
+      <Button title="Small Rounded-lg" style="text-sm rounded-full" />
 
       {/* Medium buttons */}
       <Button title="Medium Rounded-sm" style="text-base rounded-sm" />
       <Button title="Medium Rounded-md" style="text-base rounded-md" />
-      <Button title="Medium Rounded-full" style="text-base rounded-full" />
+      <Button title="Medium Rounded-lg" style="text-base rounded-full" />
 
       {/* Large buttons */}
       <Button title="Large Rounded-sm" style="text-lg rounded-sm" />
       <Button title="Large Rounded-md" style="text-lg rounded-md" />
-      <Button title="Large Rounded-full" style="text-lg rounded-full" />
+      <Button title="Large Rounded-lg" style="text-lg rounded-full" />
     </div>
   );
 };
