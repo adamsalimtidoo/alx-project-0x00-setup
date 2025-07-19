@@ -18,7 +18,7 @@ const LandingButtons: React.FC = () => {
       {/* Small buttons */}
       <Button title="Small Rounded-sm" styles="text-sm rounded-sm" />
       <Button title="Small Rounded-md" styles="text-sm rounded-md" />
-      <Button title="Small Rounded-full" style="text-sm rounded-full" />
+      <Button title="Small Rounded-full" styles="text-sm rounded-full" />
 
       {/* Medium buttons */}
       <Button title="Medium Rounded-sm" styles="text-base rounded-sm" />
