@@ -1,6 +1,8 @@
 import React from "react";
 
-type ButtonProps = {title: string; styles: string;
+type ButtonProps = {
+  title: string; 
+  styles: string;
 };
 
 const Button = ({ title, styles }: ButtonProps) => {
